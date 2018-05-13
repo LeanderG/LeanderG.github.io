@@ -30,7 +30,7 @@ google_analytics:    UA-119128781-1
 github:              LeanderG
 #dribbble:
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-paginate
   - jekyll-gist
